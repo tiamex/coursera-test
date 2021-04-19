@@ -1,5 +1,6 @@
-# Il sito è qui:
-## https://tiamex.github.io/coursera-test/site/
+# Assignment 2:
+## https://tiamex.github.io/coursera-test/assignment2
+
 
 ##### Per aggiornare il sito:
 - apri git-bash
