@@ -1,5 +1,7 @@
 # Il sito è qui:
-### https://tiamex.github.io/coursera-test/site/
+## https://tiamex.github.io/coursera-test/site/
+
+##### Per aggiornare il sito esegui lo script "upload"
 
 ##### Per capire lo stato di caricamento:
 - git status
