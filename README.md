@@ -1,11 +1,10 @@
-# coursera-test
+# Il sito è qui:
+### https://tiamex.github.io/coursera-test/site/
 
-# entra nella cartella ---> https://tiamex.github.io/coursera-test/site/
+##### Per capire lo stato di caricamento:
+- git status
 
-Per capire lo stato di caricamento:
-git status
-
-Per aggiungere i file da locale a github:
-git add .
-git commit -m "Modifiche"
-git push
+##### Per aggiungere i file da locale a github:
+- git add .
+- git commit -m "Modifiche"
+- git push
