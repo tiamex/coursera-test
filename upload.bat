@@ -4,7 +4,7 @@ git add .
 
 git status
 
-git commit -m "Altro"
+git commit -m "Modificato"
 
 git status
 
