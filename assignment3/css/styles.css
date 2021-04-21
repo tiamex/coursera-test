@@ -1,0 +1,60 @@
+/* HEADER */
+
+.navbar, .container-fluid {
+	padding: 0;
+	background-color: gray;
+}
+
+h1.navbar-brand {
+	font-size: 40px;
+	font-style: bold;
+	background-color: none;
+	margin-left: 15px;
+}
+
+.navbar-nav {
+	margin-bottom: 0 !important;
+	background-color: white;
+	text-align: center;
+	font-size: 15px;
+}
+
+.nav-item {
+	border-left: 1px solid gray;
+	border-right: 1px solid gray;
+	border-bottom: 1px solid gray;
+}
+
+
+
+/* BODY */
+
+h2 {
+	margin: 10px 0 20px 0;
+}
+
+.element {
+	background-color: gray;
+	margin: 5px;
+}
+
+a, a:link, a:visited, a:hover, a:active {
+	margin-top: 5px;
+	text-decoration: none;
+	color: black;
+	font-style: bold;
+}
+
+p {
+	margin: 5px;
+}
+
+
+
+/* MEDIA */
+
+@media (min-width: 576px) {
+	.visible-xs {
+		visibility: hidden;
+	}
+}
