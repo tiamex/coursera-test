@@ -1,0 +1,31 @@
+HEAD
+aggiungere meta tag, title, descrizioni per ogni pagina
+
+
+BRANDS
+convertire i bottoni in dropdown menù
+
+
+CONTATTI
+controllare se funziona form
+controllare se funzionano mailto
+non va mappa
+
+
+ITEM
+css di item01 comune a tutti gli item
+testo più piccolo in xs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
