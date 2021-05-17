@@ -1,17 +1,17 @@
 <?php
 	if ((trim($_POST['name-da97']) != "") && (trim($_POST['email-da97']) != "") && (trim($_POST['message-da97']) != "")) {
-	//questo fa si che se i campi "oggetto" e "messaggio" sono vuoti la form non invia nessuna mail
-	$to = " \n internextmedcal@gmail.com";
-	$headers = "From: " . $_POST['email-da97'] . "\n";
+	//questo fa si che se i campi "nome", "mail" e "messaggio" sono vuoti il form non invia nessuna mail
+	$to = "internextmedical@gmail.com";
+	$headers = "From: " . $_POST['name-da97'];
 	// soggetto della mail
 	$subject = "Modulo proveniente da nextmedical.it";
 
 	// corpo messaggio
 	$body = "Contenuto del modulo:\n\n";
-	$body .= "Inviata da: " . trim(stripslashes($_POST["name-da97"])) . "\n";
-	$body .= "Email: " . trim(stripslashes($_POST["email-da97"])) . "\n";
-	$body .= "Telefono: " . trim(stripslashes($_POST["phone-4ee7"])) . "\n";
-	$body .= "Messaggio: " . trim(stripslashes($_POST["message-da97"])) . "\n";
+	$body .= "Inviata da: " . trim(stripslashes($_POST["name-da97"])) . "\n\n";
+	$body .= "Email: " . trim(stripslashes($_POST["email-da97"])) . "\n\n";
+	$body .= "Telefono: " . trim(stripslashes($_POST["phone-4ee7"])) . "\n\n";
+	$body .= "Messaggio: " . trim(stripslashes($_POST["message-da97"])) . "\n\n";
 
 
 
