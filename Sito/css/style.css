@@ -1,0 +1,10 @@
+/* Select nella pagina brands.html */
+.sel_prodotti {
+	width: 130px;
+}
+.sel_prodotti option:first-child {
+	display: none;
+}
+
+
+

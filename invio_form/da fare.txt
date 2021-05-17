@@ -9,7 +9,6 @@ convertire i bottoni in dropdown menù
 CONTATTI
 controllare se funziona form
 controllare se funzionano mailto
-non va mappa
 
 
 ITEM
