@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /db/
+Disallow: /email.php
+Disallow: /header.php
+Disallow: /footer.php
+Disallow: /appartamenti.php
+
+Sitemap: https://www.casasardegna.it/sitemap.xml

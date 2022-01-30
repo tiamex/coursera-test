@@ -11,8 +11,8 @@
 ### https://tiamex.github.io/coursera-test/assignment5
 
 ##### Per aggiornare il sito:
-- apri git-bash
-- spostati nella cartella coursera-test
+- apri git-bash (deve essere installato sul cumputer)
+- spostati nella cartella coursera-test (cd ./Documents/Programmazione/HTML/coursera-test)
 - esegui gli script
 
 ##### Per capire lo stato di caricamento:

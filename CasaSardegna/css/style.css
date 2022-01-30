@@ -1,0 +1,12 @@
+header {
+	border-bottom: solid 3px black;
+}
+
+footer {
+	border-top: solid 3px black;
+}
+
+/* contorno lettere chiare su sfondo chiaro per le scritte nell'index */
+.contorno_lettere {
+	text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+}
